@@ -1,6 +1,5 @@
 # recipe_rating
 ![image](https://user-images.githubusercontent.com/58035397/79430072-5bb3f900-8003-11ea-9ae5-84770f56248a.png)
-![image](https://user-images.githubusercontent.com/58035397/79430084-5fe01680-8003-11ea-849f-1207ed7fcf95.png)
 ![image](https://user-images.githubusercontent.com/58035397/79430093-64a4ca80-8003-11ea-9b8c-b25f8d60cd09.png)
 ![image](https://user-images.githubusercontent.com/58035397/79430100-679fbb00-8003-11ea-85b1-3ddc3010bdda.png)
 ![image](https://user-images.githubusercontent.com/58035397/79430105-6b334200-8003-11ea-9176-0b73a702de3a.png)
